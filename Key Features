@@ -1,0 +1,8 @@
+Key Features Built-In:
+1. Interactive Command-Loop: You can run annual turn-based progression or dynamically alter variables at any point.
+
+2. Economic System: Tax revenue flows into the treasury, and changing tax rates affects citizen stability and currency valuation.
+
+3. Resource & Population Mechanics: Water and food reserves drain annually depending on population size. Shortages cause public instability and population decline.
+
+4. Custom Parameter Adjustments: Option [2] allows you to directly overwrite any variable (population, currency rate, stability, water levels) during runtime.
